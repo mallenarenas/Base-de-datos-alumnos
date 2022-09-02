@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Base-de-datos-alumnos/static/css/main.e2a64394.css",
+    "main.js": "/Base-de-datos-alumnos/static/js/main.50b5bd6e.js",
+    "static/media/pizarron.jpeg": "/Base-de-datos-alumnos/static/media/pizarron.9512456fbf7efc3258f7.jpeg",
+    "index.html": "/Base-de-datos-alumnos/index.html",
+    "main.e2a64394.css.map": "/Base-de-datos-alumnos/static/css/main.e2a64394.css.map",
+    "main.50b5bd6e.js.map": "/Base-de-datos-alumnos/static/js/main.50b5bd6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2a64394.css",
+    "static/js/main.50b5bd6e.js"
+  ]
+}
